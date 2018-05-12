@@ -1,5 +1,8 @@
 _repo: Tales-and-Novels---Volume-10--13-Helen_8531
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edgeworth, Maria
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
 description: "Helen is a novel by Maria Edgeworth (1767–1849). It was written in 1834,\
   \ late in the writer's life.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8531#Tales-and-Novels---Volume-10--13-Helen
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
