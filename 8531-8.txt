@@ -1,9 +1,9 @@
 The Project Gutenberg EBook of Helen, by Maria Edgeworth
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
 
 Title: Helen
@@ -12,8 +12,10 @@ Author: Maria Edgeworth
 
 
 Release Date: July, 2005 [EBook #8531]
+
 This file was first posted on July 20, 2003
-Last Updated: June 3, 2013
+
+Last Updated: January 1, 2015
 
 Language: English
 
@@ -23,22 +25,16 @@ Character set encoding: ISO-8859-1
 
 
 
-
-Produced by Jonathan Ingram, David Widger and the Online
+Text file produced by Jonathan Ingram, David Widger and the Online
 Distributed Proofreading Team
 
-
-
-
-
+HTML file produced by David Widger
 
 
 
 HELEN
 
 By Maria Edgeworth
-
-
 
 Tales And Novels
 
@@ -48,14 +44,125 @@ With Engravings On Steel
 
 Vol. X.
 
-
 1857
 
+
+
+CONTENTS
 
 
 
 HELEN
 
+
+
+VOLUME THE FIRST.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII
+
+CHAPTER VIII.
+
+CHAPTER IX.
+
+CHAPTER X.
+
+CHAPTER XI.
+
+CHAPTER XII.
+
+CHAPTER XIII.
+
+CHAPTER XIV.
+
+CHAPTER XV.
+
+CHAPTER XVI.
+
+
+
+VOLUME THE SECOND.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII.
+
+CHAPTER VIII
+
+CHAPTER IX.
+
+CHAPTER X
+
+CHAPTER XI.
+
+CHAPTER XII.
+
+CHAPTER XIII.
+
+CHAPTER XIV.
+
+CHAPTER XV.
+
+CHAPTER XVI.
+
+
+
+VOLUME THE THIRD.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII
+
+CHAPTER VIII.
+
+CHAPTER IX.
+
+CHAPTER X.
+
+CHAPTER XI.
+
+CHAPTER XII.
+
+CHAPTER XIII
+
+CHAPTER XIV.
+
+CHAPTER XV.
+
+
+
+HELEN
 
 
 
@@ -64,7 +171,6 @@ VOLUME THE FIRST.
 
 
 CHAPTER I.
-
 
 "There is Helen in the lime-walk," said Mrs. Collingwood to her husband,
 as she looked out of the window. The slight figure of a young person in
@@ -407,9 +513,7 @@ friendship. She had yet to learn that--
 
 
 
-
 CHAPTER II.
-
 
 Some time after this, Mr. Collingwood, rising from the breakfast-table,
 threw down the day's paper, saying there was nothing in it; Mrs.
@@ -523,7 +627,7 @@ knows--that she is a great politician; you told us no more."
 "But I should have told you more, and what nobody knows better than I
 do," cried Helen, "that Lady Davenant is a great deal more, and a great
 deal better than a politician. I was too young to judge, you may think,
-hut young as I was, I could see and feel, and children can and do often
+but young as I was, I could see and feel, and children can and do often
 see a great deal into character, and I assure you Lady Davenant's is a
 sort of deep, high character, that you would admire."
 
@@ -590,7 +694,7 @@ Helen was in great agitation.
 "Write--write--my dear, directly," said Mrs. Collingwood, "for the
 post-boy waits."
 
-And before she had written many lines the Cross-post boy sent up word
+And before she had written many lines the cross-post boy sent up word
 that he could wait no longer.
 
 Helen wrote she scarcely knew what, but in short an acceptance, signed,
@@ -647,9 +751,7 @@ and her thoughts all turned upon Cecilia, and Lady Davenant.
 
 
 
-
 CHAPTER III.
-
 
 Helen looked eagerly out of the carriage-window for the first view of
 Clarendon Park. It satisfied--it surpassed her expectations. It was a
@@ -765,8 +867,8 @@ The first morning, however, on seeing her ladyship immersed in papers
 with a brow of care, deeply intent, Helen paused on the threshold, "I am
 afraid I interrupt--I am afraid I disturb you."
 
-"Come in, Helen, come in," cried Lady Davenant, looking up,
-and the face of care was cleared, and there was a radiance of
+"Come in, Helen, come in," cried Lady Davenant, looking up, and the
+face of care was cleared, and there was a radiance of
 pleasure--"Interrupt--yes: disturb--no. Often in your little life,
 Helen, you have interrupted--never disturbed me. From the time you were
 a child till this moment, never did I see you come into my room without
@@ -947,9 +1049,7 @@ the time."
 
 
 
-
 CHAPTER IV.
-
 
 "I must go back," continued Lady Davenant, "quite to the dark ages,
 the time when I knew nothing of my daughter's character but by the
@@ -1210,7 +1310,6 @@ which her friend pointed.
 
 
 
-
 CHAPTER V.
 
 Helen's perfect happiness at Clarendon Park was not of long duration.
@@ -1269,8 +1368,8 @@ first; I saw he disliked me, and he ever will and must dislike and
 detest me--I see it in every look, hear it in every word, in every
 tone."
 
-"Now, my dear Helen, if you are riding off on your imagination, I wish
-you a pleasant ride, and till you come back again I will write my
+"Now, my dear Helen, if you are riding off on your imagination, I
+wish you a pleasant ride, and till you come back again I will write my
 letter," said Lady Davenant, taking up a pen.
 
 Helen begged pardon, and protested she was not going to ride off
@@ -1462,11 +1561,11 @@ Helen looked first at Cecilia, who, as she saw, heard what was said with
 perfect composure; and then at Lady Davenant, who had meantime glanced
 imperceptibly at her daughter, and then upon Helen, whose eyes she
 met--and Helen coloured merely from association, because she had
-coloured before-provoking! yet impossible to help it. All passed in less
-time than it can be told, and Helen had left the guardsman in the midst
-of his sentence, discomfited, and his eyes were now upon her; and in
-confusion she turned from him, and there were the general's eyes but he
-was only inviting her to taste some particular wine, which he thought
+coloured before--provoking! yet impossible to help it. All passed in
+less time than it can be told, and Helen had left the guardsman in the
+midst of his sentence, discomfited, and his eyes were now upon her; and
+in confusion she turned from him, and there were the general's eyes but
+he was only inviting her to taste some particular wine, which he thought
 she would like, and which she willingly accepted, and praised, though
 she assuredly did not know in the least what manner of taste it had. The
 general now exerted himself to occupy the guardsman in a conversation
@@ -1669,7 +1768,6 @@ strangled, or not?'"
 
 
 
-
 CHAPTER VI.
 
 The London budget of news was now opened, and gone through by Lord
@@ -1748,8 +1846,8 @@ turned with the millionth of a grain, and all from the same cause,
 subject to the same defect, indecision. They saw too well how much can
 be said on both sides of the question. There is a sort of philosophical
 doubt, arising from enlargement of understanding, quite different from
-that irresolution of character which is caused by infirmity of will; and
-I have observed," continued Lady Davenant, "in some of these over
+that irresolution of character which is caused by infirmity of will;
+and I have observed," continued Lady Davenant, "in some of these over
 scrupulous weighers, that when once they come to a balance, that instant
 they become most wilful; so it will be, you will see, with Beauclerc.
 After excessive indecision, you will see him start perhaps at once to
@@ -1809,7 +1907,7 @@ the world, yet not the least affected. Quite fashionable, of course, but
 with true feeling. Oh! he is delightful, just--" then she interrupted
 herself to give directions to the workmen about her Italian garden----
 
-"Oleander in the middle of that bed; vases nearer to the balustrade---—"
+"Oleander in the middle of that bed; vases nearer to the balustrade--"
 
 "Beauclerc has a very good taste, and a beautiful place he has,
 Thorndale. He will be very rich. Few very rich young men are
@@ -2130,7 +2228,7 @@ virtue," said Helen.
 hate sudden friendships."
 
 That evening Miss Clarendon questioned Helen more about her friendship
-with Cecilia, and how it was she came to hive with her. Helen plainly
+with Cecilia, and how it was she came to live with her. Helen plainly
 told her.
 
 "Then it was not an original promise between you?"
@@ -2433,9 +2531,7 @@ hurried out: all light of heart she went, as though
 
 
 
-
 CHAPTER VII
-
 
 Since Lord Davenant's arrival, Lady Davenant's time was so much taken
 up with him, that Helen could not have many opportunities of conversing
@@ -2691,7 +2787,7 @@ him for a few minutes before the rest of the company arrived. No time
 ever appeared to me so dreadfully long as the interval between my being
 dressed that day and his arrival.
 
-"I heard him coming up stairs: my heart heat so violently that I feared
+"I heard him coming up stairs: my heart beat so violently that I feared
 I should not be able to speak with dignity and composure, but the motive
 was sufficient.
 
@@ -2699,7 +2795,7 @@ was sufficient.
 word of reproach. What I had at one glance foreboded was true--he
 acknowledged it. I released him from all engagement to me. I saw he was
 evidently relieved by the determined tone of my refusal--at what expense
-to my heart lie was set free, he saw not--never knew--never suspected.
+to my heart he was set free, he saw not--never knew--never suspected.
 But after that first involuntary expression of the pleasure of relief, I
 saw in his countenance surprise, a sort of mortified astonishment at my
 self-possession. I own my woman's pride enjoyed this; it was something
@@ -2859,9 +2955,7 @@ like Queen Elizabeth, in having my portrait without shade."
 
 
 
-
 CHAPTER VIII.
-
 
 "I am proud to tell you, that at the time I married we were so poor,
 that I was obliged to give up many of those luxuries to which I was
@@ -3492,9 +3586,7 @@ personal narrative for your own use."
 
 
 
-
 CHAPTER IX.
-
 
 It was late before they reached home, and Helen dressed as fast as
 possible, for the general's punctual habits required that all should
@@ -3666,7 +3758,7 @@ happy, Helen was in bed and asleep in a few minutes.
 Not the slightest suspicion crossed her mind that all her friend had
 been telling her was not perfectly true. To a more practised, a less
 confiding, person the perplexity of Lady Cecilia's prefaces, and some
-contradictions or inconsistencies, might have suggested doubts; hut
+contradictions or inconsistencies, might have suggested doubts; but
 Helen's general confidence in her friend's truth had never yet been
 seriously shaken. Lady Davenant she had always thought prejudiced on
 this point, and too severe. If there had been in early childhood a bad
@@ -4094,9 +4186,7 @@ party consisted of Lady Cecilia and the general, Beauclerc and herself.
 
 
 
-
 CHAPTER X.
-
 
 It was a delightful day, sun shining, not too hot, air balmy, birds
 singing, all nature gay; and the happy influence was quickly felt by the
@@ -4191,7 +4281,7 @@ he gave the same advice to a little child."
 
 Lady Cecilia said she owed Beauclerc an acknowledgment down to her
 saddle-bow, for the compliment to her general, and a bow at least as low
-to Ellen, for making her comprehend it; and, having paid both debts with
+to Helen, for making her comprehend it; and, having paid both debts with
 graceful promptitude, she observed, in an aside to Beauclerc, that she
 quite agreed with him, that "In friendship it was good not to have to do
 with fools."
@@ -4202,7 +4292,7 @@ He smiled.
 intellects so far as to comprehend what man says; her knowledge, of
 whatever sort, never comes amiss when it serves only to illustrate what
 is said by one of the lords of the creation. Let us note this, my dear
-Ellen, as a general maxim, for future use, and pray, since you have so
+Helen, as a general maxim, for future use, and pray, since you have so
 good a memory, remember to tell mamma, who says I never generalise, that
 this morning I have actually made and established a philosophical
 maxim, one that may be of some use too, which cannot be said of all
@@ -4550,8 +4640,8 @@ stopped short.
 "Till this moment never did I say one disrespectful word to General
 Clarendon. I always considered him as the representative of my father;
 and when most galled I have borne the chains in which it was my father's
-pleasure to leave me. Few men of my age would have so submitted to
-a guardian not many years older than himself."
+pleasure to leave me. Few men of my age would have so submitted to a
+guardian not many years older than himself."
 
 "Yes, and indeed that should be considered," said Lady Cecilia, turning
 to the general.
@@ -4560,7 +4650,7 @@ to the general.
 guardian."
 
 "And have found him so, I had hoped," said the general, relaxing in tone
-hut not in looks.
+but not in looks.
 
 "I have never treated you, sir, as some wards treat their guardians.
 I have dealt openly, as man of honour to man of honour, gentleman to
@@ -4685,7 +4775,7 @@ in listening to her, she hastened as quickly as possible, lest the
 relenting moment might not be seized; and running out on the terrace,
 she saw Beauclerc, his head down upon his arms, leaning upon an old
 broken stone lion, and Lady Cecilia standing beside him, commiserating;
-and as she approached, she beard her persuading him to go to the
+and as she approached, she heard her persuading him to go to the
 general, and speak to him again, and say _so_--only say so.
 
 Whatever it was, Helen did not stay to inquire, but told Cecilia, in as
@@ -4702,8 +4792,8 @@ found him appealing, as to a father, for pardon.
 "Can you forgive, and will you?"
 
 "Forgive my not hearing you, not listening to you, as your father would?
-My dear Beauclerc, you were too hot, and I was too cold; and there is an
-end of it." This reconciliation was as quick, as war, as the quarrel
+My dear Beauclerc, you were too hot, and I was too cold; and there is
+an end of it." This reconciliation was as quick, as warm, as the quarrel
 had been. And then explanations were made, as satisfactorily as they are
 when the parties are of good understanding, and depend on each other's
 truth, past, present, and future.
@@ -4748,9 +4838,7 @@ the cold chicken.
 
 
 
-
 CHAPTER XI.
-
 
 No two people could be more unlike in their habits of mind than this
 guardian and ward. General Clarendon referred in all cases to old
@@ -4861,8 +4949,8 @@ managed than I managed this, my dear Helen! I am so glad I told you----"
 Recollecting herself just in time, she ended with, "so glad I told you
 the truth."
 
-"Oh yes! thank you," said Helen. "My uncle used to say no one could be
-a good friend who does not tell the whole truth."
+"Oh yes! thank you," said Helen. "My uncle used to say no one could be a
+good friend who does not tell the whole truth."
 
 "That I deny," thought Cecilia. The twinge of conscience was felt but
 very slightly; not visible in any change of countenance, except by a
@@ -5126,9 +5214,7 @@ woman at Old Forest."
 
 
 
-
 CHAPTER XII.
-
 
 One evening, Helen was looking over a beautiful scrap-book of Lady
 Cecilia's. Beauclerc, who had stood by for some time, eyeing it in
@@ -5494,9 +5580,7 @@ Helen thought it was all natural.
 
 
 
-
 CHAPTER XIII.
-
 
 Lady Cecilia was now impatient to have the house filled with company.
 She gave Helen a _catalogue raisonné_ of all who were expected at
@@ -5682,7 +5766,7 @@ any thing truly respectable here."
 "Now, Horace, how can you say so?--she is so amiable and so clever."
 
 "So clever? only, perhaps, a thought too fond of English liberty and
-French dress. _Poissarde lien corfée_."
+French dress. _Poissarde bien coiffée_."
 
 "_Poissarde!_ of one of the best born, best bred women in England!"
 cried Lady Cecilia; "_bien coiffée_, I allow."
@@ -5718,7 +5802,7 @@ temptations--to which it has ever been exposed; and her husband is----"
 
 "A near relation of mine," said Lady Cecilia. "I am not prudish as to
 scandal in general," continued she, laughing; "'a chicken, too, might do
-me good,' hut then the fox must not prey at home. No one ought to stand
+me good,' but then the fox must not prey at home. No one ought to stand
 by and hear their own relations abused."
 
 "A thousand pardons! I depended too much on the general maxim--that the
@@ -5748,9 +5832,7 @@ whereabouts Lady Davenant might be all this time.
 
 
 
-
 CHAPTER XIV.
-
 
 Lady Davenant was at the far end of the room engrossed, Churchill
 feared, by the newspaper; as he approached she laid it down, and said,--
@@ -5876,7 +5958,7 @@ managed--put on."
 Helen, eagerly, her colour rising; "it is all perfectly sincere, true in
 him, whatever it be."
 
-Beauclerc put down his hook.
+Beauclerc put down his book.
 
 "All perfectly true! You really think so, Miss Stanley?" said Churchill,
 smiling, and looking superior down.
@@ -6198,9 +6280,7 @@ the best use that can be made of the light, remains to be considered."
 
 
 
-
 CHAPTER XV.
-
 
 Beyond measure was Churchill provoked to find Lady Davenant against him
 and on the same side as Granville Beauclerc--all unused to contradiction
@@ -6449,9 +6529,7 @@ thinks.
 
 
 
-
 CHAPTER XVI.
-
 
 It was expected by all who had witnessed his discomfiture and his
 parting push to the chair, that Mr. Churchill would be off early in
@@ -6722,25 +6800,21 @@ comme il se batte les flancs d'un enthousiasme de commande._"
 
 Horace was too clever a man to persist in a wrong line, or one in which
 his test of right _success_ did not crown his endeavours. If this did
-not do, something else would--should, It was impossible that with all
+not do, something else would--should. It was impossible that with all
 his spirit of resource he should ultimately fail. To please, and to make
 an impression on Helen, a greater impression than Beauclerc--to annoy
 Beauclerc, in short, was still, independently of all serious thoughts,
 the utmost object of Churchill's endeavours.
 
-
 END OF THE FIRST VOLUME.
-
-
-
 
 
 
 VOLUME THE SECOND.
 
 
-CHAPTER I.
 
+CHAPTER I.
 
 About this time a circumstance occurred, which seemed to have nothing to
 do with Churchill, or Beauclerc, but which eventually brought both their
@@ -6769,7 +6843,7 @@ stood fixed when he came to this picture, in which he fancied he
 discovered in one of the figures some likeness to Helen; the lady had a
 hawk upon her wrist. Churchill came up eagerly to the examination, with
 glass at eye. He could not discern the slightest resemblance to Miss
-Stanley; but he was in haste to, bring out an excellent observation of
+Stanley; but he was in haste to bring out an excellent observation of
 his own, which he had made his own from a Quarterly Review, illustrating
 the advantage it would be to painters to possess knowledge, even of
 kinds seemingly most distant from the line of their profession.
@@ -6830,9 +6904,8 @@ the sound and the sense, and took Horace aside to tell him what he had
 done. Horace looked vexed, and haughtily observed, that he conceived his
 place at Erlesmede was better calculated for a hawking party than most
 places in England; and he had already announced his intentions to the
-ladies. The way was open to him--but Beauclerc did not see why he
-should recede; the same post might carry both their letters--both their
-orders!
+ladies. The way was open to him--but Beauclerc did not see why he should
+recede; the same post might carry both their letters--both their orders!
 
 "How far did your order go, may I ask?" said Churchill.
 
@@ -7161,9 +7234,7 @@ all ended well, and no one rued the hawking of this day.
 
 
 
-
 CHAPTER II.
-
 
 "But all this time," said Lady Davenant, "you have not told me whether
 you have any of you found out what changed Granville's mind about this
@@ -7630,9 +7701,7 @@ feeling to be aware.
 
 
 
-
 CHAPTER III.
-
 
 The party now at Clarendon Park consisted chiefly of young people.
 Among them were two cousins of Lady Cecilia's, whom Helen had known at
@@ -8035,9 +8104,7 @@ return let me find----"
 
 
 
-
 CHAPTER IV.
-
 
 Absent or present, the guardian influence of a superior friend is one
 of the greatest blessings on earth, and after Lady Davenant's departure
@@ -8551,9 +8618,7 @@ but now--!"
 
 
 
-
 CHAPTER V.
-
 
 When Helen attempted to walk, she trembled so much that she could not
 move, and leaning against the tree under which she was standing, she
@@ -8834,7 +8899,7 @@ breakfast-time--how subject to headaches poor Helen was; and through
 this and through all other conversation she settled what she would do
 for her. As the last resource, she would tell the whole truth--not to
 her husband, she loved him too well to face his displeasure for one
-moment--hut to Beauclerc; and writing would be so much easier than
+moment--but to Beauclerc; and writing would be so much easier than
 speaking--without being put to the blush she could explain it all to
 Beauclerc, and turn it playfully; and he would be so happy that he
 would be only too glad to forgive her, and to do anything she asked.
@@ -8930,9 +8995,7 @@ well, and quite as well as if she had not been a fool.
 
 
 
-
 CHAPTER VI.
-
 
 THE first tidings of Beauclerc came in a letter from him to the general,
 written immediately after his arrival at Paris. But it was plain that it
@@ -9004,8 +9067,7 @@ mournings--so like ostentation of sentiment; whatever I did, at any rate
 I would be consistent. I never would dance in black. Pope, you know, has
 such a good cut at that sort of thing. Do you recollect the lines?"
 
- "'And bear about the mockery of woe
-  To midnight dances and the public show.'"
+"'And bear about the mockery of woe  To midnight dances and the public show.'"
 
 Lady Castlefort took Miss Stanley aside, after the dance was over, to
 whisper to her so good-naturedly, how shockingly severe Katrine had
@@ -9265,9 +9327,7 @@ the wife of a general, and not without resources."
 
 
 
-
 CHAPTER VII.
-
 
 Of the regatta, of the fineness of the weather, the beauty of the
 spectacle, and the dresses of the ladies, a full account appeared in
@@ -9361,7 +9421,7 @@ to accept of them in the circumstances; and she told how she had been
 induced to take them.
 
 Lady Davenant said she had done quite right. The general was no
-present-maker, and this exception in his favour could I not lead to
+present-maker, and this exception in his favour could not lead to
 any future inconvenience. "But Cecilia," continued she, "is too much
 addicted to trinket giving, which ends often disagreeably even between
 friends, or at all events fosters a foolish taste, and moreover
@@ -9659,9 +9719,7 @@ breeding could express it, unconquered, unconquerable hate.
 
 
 
-
 CHAPTER VIII
-
 
 There is no better test of the strength of affection than the ready
 turning of the mind to the little concerns of a friend, when preoccupied
@@ -9752,8 +9810,8 @@ her here I must."
 "I think you had better not," remonstrated Helen; "if she is so very
 vulgar, Lady Davenant and the general will never endure her."
 
-"Oh, he will! the general will bear a great deal for mamma's sake, and
-more for papa's. I must have her, my dear, for the husband is of
+"Oh, he will! the general will bear a great deal for mamma's sake,
+and more for papa's. I must have her, my dear, for the husband is of
 consequence and, though he is ashamed of her, for that very reason he
 cannot bear that any body should neglect her, and terribly mamma has
 neglected her! Now, my dear Helen, do not say a word more against it."
@@ -9848,7 +9906,7 @@ and English too."--"English! eh?"--"English--yes." Lord Davenant hoped
 this English cook would, with the assistance of several of his brother
 _artistes_ of the present day, redeem our country from one-half of the
 Abbé Gregoire's reproach. The abbé has said that England would be
-the finest country in the world, but that it wants too essentials,
+the finest country in the world, but that it wants two essentials,
 _sunshine_ and _cooks_. "Good! Good! Very!" voices from different sides
 of the table pronounced; and there was silence again.
 
@@ -9899,9 +9957,7 @@ was perfectly right in his prophecy that it would never do.
 
 
 
-
 CHAPTER IX.
-
 
 It was rather worse when the ladies were by themselves. Some of the
 party were personally strangers to Lady Davenant; all had heard of her
@@ -10171,15 +10227,14 @@ hand, it was suggested that a rigid adherence to forms unsuited to the
 temper of the times only exasperates, and that, wherever reliance on
 forms is implicit, it is apt to lead princes and their counsellors to
 depend too much on the strength of that fence which, existing only in
-the imagination, is powerless when the fashion changes. Ins a court
-quite surrounded and enveloped by old forms, the light of day cannot
-penetrate to the interior of the palace, the eyes long kept in obscurity
-are weakened, so that light cannot be borne: when suddenly it breaks
-in, the royal captive is bewildered, and if obliged to act, he gropes,
-blunders, injures himself, and becomes incapable of decision in
-extremity of danger, reduced to the helplessness which marks the
-condition of the Eastern despot, or _les rois fainéans_ of any time or
-country.
+the imagination, is powerless when the fashion changes. In a court quite
+surrounded and enveloped by old forms, the light of day cannot penetrate
+to the interior of the palace, the eyes long kept in obscurity are
+weakened, so that light cannot be borne: when suddenly it breaks in, the
+royal captive is bewildered, and if obliged to act, he gropes, blunders,
+injures himself, and becomes incapable of decision in extremity of
+danger, reduced to the helplessness which marks the condition of the
+Eastern despot, or _les rois fainéans_ of any time or country.
 
 As Helen sat by, listening to this conversation, what struck and
 interested her most was, the manner in which it went on and went off
@@ -10240,7 +10295,7 @@ may take the liberty of asking your advice in a little matter."
 
 Helen, who had by this time descended from the steps, stood and looked
 a little surprised, but said all that was properly civil, "gratified by
-Lady Bearcroft's good opinion-happy to be of any service,"--&c. &c.
+Lady Bearcroft's good opinion--happy to be of any service,"--&c. &c.
 
 "Well, then--sit ye down one instant, Miss Hanley."
 
@@ -10283,7 +10338,7 @@ very kind to Sir Ben, and got him appointed to his present station; and
 though Lord Davenant was the ostensible person, I considered her as the
 prime mover behind the curtain. Accordingly, I sat me down, and wrote as
 pretty a note as I could pen, and Sir Ben approved of the whole thing;
-but I don't say that I'm positive he was as oft-handed and clean-hearted
+but I don't say that I'm positive he was as off-handed and clean-hearted
 in the matter as I was, for between you and I his gratitude, as they say
 of some people's, is apt to squint with one eye to the future as well as
 one to the past--you comprehend?"
@@ -10347,9 +10402,7 @@ down--Good night, good night."
 
 
 
-
 CHAPTER X
-
 
 "My dear Helen, there is an end of every thing!" cried Lady Cecilia, the
 next day, bursting into Helen's room, and standing before her with an
@@ -10550,7 +10603,7 @@ think her your friend or your enemy, inclined to do you mischief or not.
 Just as it may be for her interest or not, I suppose."
 
 "And just as it may be the fashion or not," said Lady Davenant. "I
-remember hearing old Lady —---, one of the cleverest women of the last
+remember hearing old Lady--, one of the cleverest women of the last
 century, and one who had seen much of the world, say, 'If it was the
 fashion to burn me, and I at the stake, I hardly know ten persons of my
 acquaintance who would refuse to throw on a faggot.'"
@@ -10616,9 +10669,7 @@ enough to do with manners and morality.
 
 
 
-
 CHAPTER XI.
-
 
 The next day, as Helen was going across the hall, she saw the members
 of the last political conclave coming out of Lord Davenant's room, each
@@ -10635,7 +10686,7 @@ appearance of things, as sunshine or no sunshine on the landscape.
 
 Dinner, however, was got through, for time and the hour, two hours, or
 three, will get through the roughest dinner or the smoothest. "Never
-saw a difficult dinner-party better, bothered!" was Lady Bearcroft's
+saw a difficult dinner-party better bothered!" was Lady Bearcroft's
 compliment, whispered to Cecilia as they went into the drawing-room;
 and Helen, notwithstanding Lady Bearcroft's vulgarity, could not help
 beginning absolutely to like her for her good nature and amazingly
@@ -10675,16 +10726,19 @@ humour of Sir Benjamin's, or plain matter of fact and serious opinion,
 the gravity with which it was delivered indicated not; but it produced
 the good effect of a smile, a laugh, at him or with him. Lady Cecilia
 did not care which, the laugh was good at all events; her invincible
-good-nature and sweetness of temper had not been soured or conquered even
-by her mother's severity; and Lady Davenant, observing this, forgave and
-wished to be forgiven.
+good-nature and sweetness of temper had not been soured or conquered
+even by her mother's severity; and Lady Davenant, observing this,
+forgave and wished to be forgiven.
 
 "My dearest Cecilia," said she, "clasp this bracelet for me, will you?
 It would really be a national blessing, if, in the present times, all
-women were as amiable as you,'Fond to spread friendships, but to cover
-heat Then, turning to a French gentleman, she spoke of the change she
-had observed when she was last at Paris, from the overwhelming violence
-of party spirit on all sides.
+women were as amiable as you,
+
+'Fond to spread friendships, but to cover heats.'"
+
+Then, turning to a French gentleman, she spoke of the change she had
+observed when she was last at Paris, from the overwhelming violence of
+party spirit on all sides.
 
 "Dreadfully true," the French gentleman replied--"party spirit, taking
 every Proteus form, calling itself by a hundred names and with a
@@ -10826,8 +10880,7 @@ the tune of--"Here's to the maiden of blushing fifteen"--
 
 She sang--
 
- "Here's to rats and ratcatchers of every degree,
-  The rat that is trapped, and the rat that is free,
+"Here's to rats and ratcatchers of every degree,  The rat that is trapped, and the rat that is free,
   The rat that is shy, sir, the rat that is bold, sir,
   The rat upon sale, sir, the rat that is sold, sir.
   Let the rats rat! Success to them all,
@@ -10835,9 +10888,7 @@ She sang--
 
 
 
-
 CHAPTER XII.
-
 
 Sir Benjamin and Lady Bearcroft departed at six o'clock the next
 morning, and all the rest of the political and diplomatic corps _left_
@@ -11249,7 +11300,7 @@ that curtain and draw it back and face the boy"--but she did not dare;
 yet he was only a boy--But it might be a man and not the page. Better
 go and call somebody--tell Lady Davenant. She MUST go through the
 antechamber, and pass close to that curtain to open the door. All this
-was the thought of one moment, end she went on holding up the light to
+was the thought of one moment, and she went on holding up the light to
 the book-shelves as if in quest of some book, and kept coasting along to
 gain the door; she was afraid when she was to pass the window-curtain,
 either of touching it, or of stumbling over that foot. But she got past
@@ -11333,9 +11384,7 @@ pursuit of him; I hope I may never, never, see him more."
 
 
 
-
 CHAPTER XIII.
-
 
 Some people value their friends most for active service, some for
 passive kindness. Some are won by tender expressions, some convinced by
@@ -11612,9 +11661,7 @@ must be satisfied with the result.
 
 
 
-
 CHAPTER XIV.
-
 
 "All is right!" cried Lady Cecilia. "O my dear mother, I am the happiest
 creature in the world, if you were not going away; could not you stay--a
@@ -12018,9 +12065,7 @@ And Helen looked at her, and Helen believed her.
 
 
 
-
 CHAPTER XV.
-
 
 Helen slept no more this night. When alone in the stillness of the long
 hours, she went over and over again all that had passed, what Cecilia
@@ -12352,9 +12397,7 @@ herself.
 
 
 
-
 CHAPTER XVI.
-
 
 General Clarendon was sitting in the music-room, within the library, the
 door open, so that he could see Helen the moment she came in, and that
@@ -12917,13 +12960,11 @@ END OF VOLUME THE SECOND
 
 
 
-
-
-
 VOLUME THE THIRD.
 
-CHAPTER I.
 
+
+CHAPTER I.
 
 The overwrought state of Helen's feelings was relieved by a walk
 with Beauclerc, not in the dressed part of the park, but in what was
@@ -13140,9 +13181,9 @@ effort, she remembered that in the morning, while the general had been
 talking to her, she had in her confusion, when she took the packet, laid
 the picture and that letter beside her on the arm of the chair. She had,
 in her hurry of putting the other letters into her bag, forgotten this
-and the picture, and she supposed that they had fallen between the
-chair and the wall, and that they had been found and put into the
-table-drawer by one of the servants.
+and the picture, and she supposed that they had fallen between the chair
+and the wall, and that they had been found and put into the table-drawer
+by one of the servants.
 
 Helen was hastening out of the room, Cecilia detained her. "Do not go,
 my dear, for that would look as if you were guilty, and you know you are
@@ -13280,9 +13321,7 @@ night." He returned to the music-room.
 
 
 
-
 CHAPTER II.
-
 
 Helen instantly went to Cecilia's room; Felicie was with her. Helen
 expected Lady Cecilia would dismiss her instantly; but mademoiselle was
@@ -13505,7 +13544,7 @@ dressing-room, where he had seen her and Lady Cecilia.
 the believing, fond, happy dupe I was but yesterday evening!"
 
 "Dupe!" repeated Helen. "But pour out all--all, dear Granville.
-Think--say--what you will--reproach-abuse me as you please. It is a
+Think--say--what you will--reproach--abuse me as you please. It is a
 relief--take it--for I have none to give."
 
 "None!" cried he, his tone suddenly changing, "no relief to give!--What!
@@ -13538,8 +13577,8 @@ circumstances which I cannot tell you."
 
 "But why?" interrupted Beauclerc.--"Ought there to be any circumstances
 which cannot be told to the man to whom you have plighted your faith?
-Away with this 'cannot--this mystery!' Did not I tell you every
-folly of my life--every fault? And what is this?--in itself,
+Away with this 'cannot--this mystery!' Did not I tell you every folly
+of my life--every fault? And what is this?--in itself,
 nothing!--concealment everything--Oh! Helen--"
 
 She was going to say, "If it concerned only myself,"--but that would at
@@ -13689,7 +13728,6 @@ Park; and she with some difficulty convinced Helen of this. Beauclerc
 feared nothing but delay. They were to go. Lady Cecilia announced their
 decision to the general, who immediately set off, and the others in a
 few hours followed him.
-
 
 
 
@@ -14239,9 +14277,7 @@ judgment of those who have any imagination.
 
 
 
-
 CHAPTER IV
-
 
 "_Miladi a une migranie affreuse_ this morning," said Felicie,
 addressing herself on the stairs to Rose. "_Mille amitiés de sa part_
@@ -14615,9 +14651,7 @@ leave her.
 
 
 
-
 CHAPTER V.
-
 
 That Fortune is not nice in her morality, that she frequently favours
 those who do not adhere to truth more than those who do, we have early
@@ -14699,7 +14733,7 @@ the song which Lady Castlefort seemed to be practising; the words
 were distinctly pronounced, uncommonly distinctly, so as to be plainly
 heard--
 
- "Had we never loved so kindly,
+  "Had we never loved so kindly,
   Hail we never loved so blindly,
   Never met, or never parted.
   We had ne'er been broken-hearted."
@@ -14726,7 +14760,7 @@ start of confusion with a well-acted start of admiration. "Louisa
 Castlefort, _si belle, si belle_, so beautifully dressed!"
 
 "Beautifully dressed--nothing extraordinary!" said Lady Castlefort,
-advancing with a half embarrassed, half _non-chalant_ air,--"One must
+advancing with a half embarrassed, half _nonchalant_ air,--"One must
 make something of a _toilette de matin_, you know, when one has people
 to breakfast."
 
@@ -14866,7 +14900,7 @@ medical maundering. "As to low spirits, my dear Cecilia, I must say I
 agree with Sir Sib Pennyfeather, who tells me it is not mere common
 low spirits, but really all mind, too much mind; mind preying upon
 my nerves. Oh! I knew it myself. At first he thought it was rather
-constitutional; poor clear Sir Sib! he is very clever, Sir Sib; and I
+constitutional; poor dear Sir Sib! he is very clever, Sir Sib; and I
 convinced him he was wrong; and so we agreed that it was all upon my
 mind--all; all----"
 
@@ -15031,9 +15065,7 @@ but some way took the sense into her mind at a glance.
 
 
 
-
 CHAPTER VI.
-
 
 The first of these paragraphs caught the eye by its title in capital
 letters.
@@ -15398,9 +15430,7 @@ words, the carriage stopped at their own door.
 
 
 
-
 CHAPTER VII
-
 
 We left Helen in the back drawing-room, the door bolted, and beginning
 to read her dreaded task. The paragraphs in the newspapers, we
@@ -15777,9 +15807,7 @@ he left the room.
 
 
 
-
 CHAPTER VIII.
-
 
 That knowing French minister, Louvois, whose power is said to have been
 maintained by his surpassing skill in collecting and spreading secret
@@ -15812,7 +15840,7 @@ dit_, or tell the secret which you first reveal. There was in him and
 about him such an air of reckless, cordial coxcombry, it warmed the
 coldest, threw the most cautious off their guard, brought out family
 secrets as if he had been one of your family--your secret purpose as
-though lie had been a secular father confessor; as safe every thing told
+though he had been a secular father confessor; as safe every thing told
 to St. Leger Swift, he would swear to you, as if known only to yourself:
 he would swear, and you would believe, unless peculiarly constituted, as
 was the lady who, this morning, took her seat in his chair--
@@ -15858,9 +15886,9 @@ whisking himself round, and as if looking for some essential implement.
 "May be a mere twinge, accidental cold, rheumatism; or may be----My
 dear madam" (to the aunt), "I will trouble you; let me pass. I beg
 pardon--one word with you," and with his back to the patient in the
-chair, while he rummaged among ivory-handled instruments on the table, he
-went on in a low voice to the aunt--"Is she nervous? is she nervous, eh,
-eh, eh?"
+chair, while he rummaged among ivory-handled instruments on the table,
+he went on in a low voice to the aunt--"Is she nervous? is she nervous,
+eh, eh, eh?"
 
 Mrs. Pennant looked, but did not hear, for she was a little deaf.
 
@@ -16296,9 +16324,7 @@ of the evening.
 
 
 
-
 CHAPTER IX.
-
 
 If "trifles light as air are to the jealous confirmations strong as
 proofs of Holy Writ," and that they are no one since the time of Othello
@@ -16438,7 +16464,7 @@ test. The firm of principle are those most courageous in time of need.
 Helen had determined what her course should be, and, once determined,
 she was calm. She sat down and wrote to General Clarendon.
 
-"Miss STANLEY regrets that she cannot explain to General Clarendon the
+"MISS STANLEY regrets that she cannot explain to General Clarendon the
 circumstances which have so much displeased him. She assures him that
 no want of confidence has been, on her part, the cause; but she cannot
 expect that, without further explanation, he should give her credit
@@ -16564,8 +16590,8 @@ notion you believe in mine. Do you?"
 
 "I do."
 
-"I wish it had pleased Heaven," continued Miss Clarendon, "that
-my brother had married a woman who could speak truth! But you need not
+"I wish it had pleased Heaven," continued Miss Clarendon, "that my
+brother had married a woman who could speak truth! But you need not
 be afraid; I will not touch on your secrets. On any matter you have in
 keeping, my honour as well as yours will command my silence--as will
 also my brother's happiness, which I have somewhat at heart; not that I
@@ -16664,9 +16690,7 @@ sleep for a few hours.
 
 
 
-
 CHAPTER X.
-
 
 Helen was just dressed, and had given her last orders to her bewildered
 maid, when she heard a knock at the door, and Mademoiselle Felicie's
@@ -16878,7 +16902,7 @@ Katrine;--mentioned that one morning, sometime ago, he had dropped in
 unexpectedly early at Lady Castlefort's, and had been surprised to
 find the two sisters, contrary to their wont, together--their heads and
 Horace Churchill's over some manuscript, which was shuffled away as
-he entered. This was true, all but the shuffling away; and hear it is
+he entered. This was true, all but the shuffling away; and here it is
 necessary to form a clear notion, clearer than Lord Beltravers
 will give, of the different shares of wrong; of wrong knowingly and
 unknowingly perpetrated by the several scandal-mongers concerned in this
@@ -16979,9 +17003,7 @@ even know what is most likely to happen.
 
 
 
-
 CHAPTER XI.
-
 
 According to the general's advice, Mrs. Pennant did not delay her
 journey, and Helen left London the next day with her and Miss Clarendon.
@@ -17390,7 +17412,6 @@ gratitude.
 
 
 
-
 CHAPTER XII.
 
 But there was still in Helen's inmost soul one deceitful hope. She
@@ -17744,9 +17765,7 @@ her over the ground with all conceivable speed.
 
 
 
-
 CHAPTER XIII
-
 
 When they were within the last stage of London, the carriage suddenly
 stopped, and Helen, who was sitting far back, deep in her endless
@@ -17893,7 +17912,7 @@ often and to such extent, that he suspected--he discovered how it went;
 he told me so. He spoke in that low, suppressed, that terrible voice
 which I had heard once before; I said, I know not what, in deprecation
 of his anger. 'I am not angry, Cecilia,' said he. I caught his hand,
-and would have detained him; he withdrew that band, and, looking at
+and would have detained him; he withdrew that hand, and, looking at
 me, exclaimed, 'Beautiful creature! half those charms would I give for
 _truth!_' He left the room, and there was contempt in his look.
 
@@ -18034,7 +18053,7 @@ Cymon, and I had to tell her of my failure with Lady Emily and Mrs.
 Holdernesse. I softened their refusal as much as I could, but I might
 have spared myself the trouble, for she only retorted by something
 about English prudery. At this moment a shower of rain came on, and she
-insisted upon my taking her home; 'Come in,' said she, when the carnage
+insisted upon my taking her home; 'Come in,' said she, when the carriage
 stopped at her door: 'if you will come in, I will give it to you now,
 and you need not have the trouble of calling again.' I had the folly to
 yield, though I saw that it was a trick to decoy me into her house, and
@@ -18063,7 +18082,7 @@ way the general had gone? 'To Town.' I perceived that he must have been
 going to look for me at the nurse's, and had seen the carriage at Madame
 de St. Cymon's door. I hastened after him, and then I recollected that
 I had left the locket on the table at Madame de St. Cymon's, that locket
-for which I had hazarded--lost--everything! The moment I readied home,
+for which I had hazarded--lost--everything! The moment I reached home,
 I ran to Clarendon's room; he was not there, and oh! Helen, I have not
 seen him since!
 
@@ -18226,9 +18245,7 @@ profound slumber.
 
 
 
-
 CHAPTER XIV.
-
 
 On awaking in the morning, after some long-expected event has happened,
 we feel in doubt whether it has really occurred, or whether it is all
@@ -18500,27 +18517,27 @@ imagine the exquisite meanness of that man's mind.
 instead of too much imagination."
 
 Lady Davenant smiled, and said, "It has been admirably observed, that
-it is among men as among certain tribes of animals, it is sometimes
-only necessary that one of the herd should step forward and lead the
-way, to make all the others follow with alacrity and submission; and I
-solve the whole difficulty thus: I suppose that Lord Beltravers, just
-following Beauclerc's lead, succeeded in persuading him that he was
-a man of genius and a noble fellow, by allowing all Beauclerc's own
-paradoxes, adopting all his ultra-original opinions, and, in short,
-sending him back the image of his own mind, till Granville had
-been caught by it, and had fairly fallen in love with it--a mental
-metaphysical Narcissus." [Footnote: Lord Mahon.] "After all," continued
-Lady Davenant, smiling, "of all the follies of youth, the dangerous
-folly of trying to do good--that for which you stand convicted, may be
-the most easily pardoned, the most safely left to time and experience
-to cure. You know, Granville, that ever since the time of Alexander the
-Great's great tutor, the characteristic faults of youth and age have
-been the '_too much_' and the '_too little_.' In youth, the too much
-confidence in others and in themselves, the too much of enthusiasm--too
-much of benevolence;--in age, alas! too little. And with this youth, who
-has the too much in every thing--what shall we do with him, Helen? Take
-him, for better for worse, you must; and I must love him as I have done
-from his childhood, a little while longer--to the end of my life."
+it is among men as among certain tribes of animals, it is sometimes only
+necessary that one of the herd should step forward and lead the way, to
+make all the others follow with alacrity and submission; and I solve the
+whole difficulty thus: I suppose that Lord Beltravers, just following
+Beauclerc's lead, succeeded in persuading him that he was a man of
+genius and a noble fellow, by allowing all Beauclerc's own paradoxes,
+adopting all his ultra-original opinions, and, in short, sending him
+back the image of his own mind, till Granville had been caught by it,
+and had fairly fallen in love with it--a mental metaphysical Narcissus."
+[Footnote: Lord Mahon.] "After all," continued Lady Davenant, smiling,
+"of all the follies of youth, the dangerous folly of trying to do
+good--that for which you stand convicted, may be the most easily
+pardoned, the most safely left to time and experience to cure. You
+know, Granville, that ever since the time of Alexander the Great's great
+tutor, the characteristic faults of youth and age have been the '_too
+much_' and the '_too little_.' In youth, the too much confidence in
+others and in themselves, the too much of enthusiasm--too much of
+benevolence;--in age, alas! too little. And with this youth, who has the
+too much in every thing--what shall we do with him, Helen? Take him, for
+better for worse, you must; and I must love him as I have done from his
+childhood, a little while longer--to the end of my life."
 
 "A little longer, to the end of her life!" said Beauclerc to himself,
 as leaning on the back of Helen's chair he looked at Lady Davenant. "I
@@ -18601,9 +18618,7 @@ reparation for unjust suspicion.
 
 
 
-
 CHAPTER XV.
-
 
 After setting down Lady Cecilia at her mother's, the aunt and niece
 proceeded to the picture sale which Miss Clarendon was eager to attend,
@@ -18914,170 +18929,163 @@ happy--perfectly happy in Love and Truth!"
 
 
 
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Helen, by Maria Edgeworth
 
 *** END OF THIS PROJECT GUTENBERG EBOOK HELEN ***
 
-***** This file should be named 8531-8.txt or 8531-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/8/5/3/8531/
+***** This file should be named 8531-8.txt or 8531-8.zip ***** This and
+all associated files of various formats will be found in:        http://www.gutenberg.org/8/5/3/8531/
 
-Produced by Jonathan Ingram, David Widger and the Online
+
+Text file produced by Jonathan Ingram, David Widger and the Online
 Distributed Proofreading Team
 
+HTML file produced by David Widger
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You
+may use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
+Gutenberg-tm License available with this file or online at  www.gutenberg.org/license.
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree
+to and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg-tm electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg-tm
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg-tm works in compliance with
+the terms of this agreement for keeping the Project Gutenberg-tm name
+associated with the work. You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached
+full Project Gutenberg-tm License when you share it without charge with
+others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1. The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder. Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other
+than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the full
+Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg-tm electronic works provided that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
      the use of Project Gutenberg-tm works calculated using the method
@@ -19100,76 +19108,73 @@ that
      and discontinue all use of and all access to other copies of
      Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
+- You provide, in accordance with paragraph 1.F.3, a full refund of any     money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
 - You comply with all other terms of this agreement for free
      distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg-tm trademark. Contact the Foundation as
+set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
+BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
+PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER,
+AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
+EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
 providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund. If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law. The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
 promotion and distribution of Project Gutenberg-tm electronic works,
@@ -19180,102 +19185,104 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers. It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
+goals and ensuring that the Project Gutenberg-tm collection will remain
+freely available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg-tm and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation information page at www.gutenberg.org
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3. Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number is
+64-6221541. Contributions to the Project Gutenberg Literary Archive
+Foundation are tax deductible to the full extent permitted by U.S.
+federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+throughout numerous locations. Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email
 contact links and up to date contact information can be found at the
 Foundation's web site and official page at www.gutenberg.org/contact
 
-For additional contact information:
-     Dr. Gregory B. Newby
+For additional contact information:     Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
 
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including checks, online payments and credit card donations. To donate,
+please visit: www.gutenberg.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5. General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart was the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
+with anyone. For forty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
      www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+
+
 
